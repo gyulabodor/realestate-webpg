@@ -1,5 +1,6 @@
 # RealEstate - webpage
 >My first webpage  project written in  php/html/css/javascipt, for a company which dealing in realestate.
+> **PHP** **HTML** **CSS** and a little **JS**
 
  https://diamondtradelimited.com 
 
