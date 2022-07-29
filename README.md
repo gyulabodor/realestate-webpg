@@ -9,3 +9,5 @@
 * Present the activity and image in the best possible way
 * Display different type of real estate ads like apartments, houses, hotels, industrial areas, offices. 
 * Managing the ads
+
+Started developing a new realese of the website which will use restAPI (typescript,express server, typeorm, postgre sql) , and ReactTS for frontend. 
